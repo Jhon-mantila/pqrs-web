@@ -10,6 +10,7 @@ Instalar un servidor Local en tu equipo por ej:
 XAMPP Apache + MariaDB + PHP + Perl
 https://www.apachefriends.org/es/index.html
 Descarga el repositorio de github
+https://github.com/Jhon-mantila/pqrs-web.git
 
 **Instalación**
 Mueve el reposiorio a la carpeta donde instalaste tu servidor local:
